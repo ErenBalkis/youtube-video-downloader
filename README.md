@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎬 YouTube Downloader
+# 🎬 YouTube Video Downloader
 
-**A sleek, modern YouTube downloader that runs as a local desktop application.**
+**A sleek, modern YouTube video downloader that runs as a local desktop application.**
 
 Download YouTube videos in MP4 or extract audio as MP3 — with a single click from your desktop.
 
@@ -68,8 +68,8 @@ Double-click **`run_app.bat`**. The app opens in your browser at `http://localho
 
 ```bash
 # Clone the repository
-git clone https://github.com/ErenBalkis/youtube-downloader.git
-cd youtube-downloader
+git clone https://github.com/ErenBalkis/youtube-video-downloader.git
+cd youtube-video-downloader
 
 # Create & activate virtual environment
 python -m venv venv
@@ -136,7 +136,7 @@ Now just **double-click the YouTube Downloader icon** on your desktop to launch 
 ## 📁 Project Structure
 
 ```
-youtube-downloader/
+youtube-video-downloader/
 ├── app.py              # Main Streamlit application
 ├── install_env.bat     # One-click environment setup script
 ├── run_app.bat         # One-click app launcher script
